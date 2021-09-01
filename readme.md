@@ -5,3 +5,7 @@
 
 > **Discord Server For Help:**
  https://dsc.gg/tomori
+
+# TODO:
+
+> **Grab Personnal Information Of The Token**
