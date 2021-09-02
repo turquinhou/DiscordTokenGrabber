@@ -1,3 +1,4 @@
+// You can use that in your code but let my name in the footer or it's skid and skid is gay
 const app = require('express')()
 
 const request = require('request')
