@@ -8,4 +8,4 @@
 
 # TODO:
 
-> **Grab Personnal Information Of The Token**
+> ✔️**Grab Personnal Information Of The Token**
